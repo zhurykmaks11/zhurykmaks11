@@ -1,4 +1,4 @@
-# Hi, I'm Maxim Zhurik 👋
+# Hi, I'm Maksym Zhuryk 👋
 
 🎓 Software Engineering Student | 💻 Junior Front-End Developer
 
