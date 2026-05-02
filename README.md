@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student | 💻 Junior Front-End Developer
 
-[Email](mailto:zhurik.max@gmail.com) • [LinkedIn](www.linkedin.com/in/maksym-zhuryk-3200b5325) • [GitHub](https://github.com/zhurykmaks11)
+[Email](mailto:zhurik.max@gmail.com) • [LinkedIn](https://www.linkedin.com/in/maksym-zhuryk-3200b5325/) • [GitHub](https://github.com/zhurykmaks11)
 
 ---
 
